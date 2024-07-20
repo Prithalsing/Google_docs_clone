@@ -10,6 +10,9 @@
 
 # Environment variables
 .env
+.Dockerfile
+.docker-compose.yaml
+.mongod.conf
 
 # Logs
 *.log
